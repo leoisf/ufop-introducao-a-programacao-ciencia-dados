@@ -1,0 +1,5 @@
+Python é uma linguagem de programação poderosa.
+Ciência de dados usa Python para análise e visualização.
+Listas, dicionários e sets são estruturas fundamentais.
+Funções tornam o código mais organizado e reutilizável.
+Aprender programação abre muitas portas profissionais.
